@@ -47,3 +47,10 @@ B. Halaman Gallery
 Halaman Gallery adalah halaman yang menampilkan foto-foto mahasiswa secara individu.
 
 ![Image](https://github.com/user-attachments/assets/ca8e975b-867e-4e8e-a0df-76f56377c672)
+
+
+C. Halaman About
+
+Halaman About adalah halaman yang menampilkan deskripsi tentang saya atau profile dari masing-masing mahasiswa.
+
+![Image](https://github.com/user-attachments/assets/18aa127b-13bc-45fe-b194-d32fa3821c84)
