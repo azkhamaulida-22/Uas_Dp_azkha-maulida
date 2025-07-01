@@ -70,3 +70,9 @@ B. Halaman Beranda
 Halaman Beranda merupakan halaman yang menampilkan statistik Jumlah Artikel dan Jumlah Gallery.
 
 ![Image](https://github.com/user-attachments/assets/e52689b7-736c-4865-b0ac-08774ea8c36b)
+
+C. Halaman Kelola Artikel
+
+Halaman Kelola Artikel adalah halaman untuk mengelola Artikel dimulai dari Tampil Artikel, Tambah Artikel, Edit Artikel dan Hapus Artikel.
+
+![Image](https://github.com/user-attachments/assets/ec6d5eae-b815-4180-be59-4dc2683742cb)
