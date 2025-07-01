@@ -77,4 +77,4 @@ Halaman Kelola Artikel adalah halaman untuk mengelola Artikel dimulai dari Tampi
 
 ![Image](https://github.com/user-attachments/assets/ec6d5eae-b815-4180-be59-4dc2683742cb)
 
-![Image](https://github.com/user-attachments/assets/ec6d5eae-b815-4180-be59-4dc2683742cb)
+![Image](https://github.com/user-attachments/assets/52ca5644-f18d-45ed-aad3-d1623a3a3d5d)
