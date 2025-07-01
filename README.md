@@ -32,3 +32,11 @@ Struktur Folder
 
 
 ![Image](https://github.com/user-attachments/assets/b905b3f9-6d67-46f0-b83a-ba973702968c)
+
+User Interface Halaman Publik
+
+A. Halaman Home / Artikel
+
+Halaman Home atau Halaman Artikel adalah halaman yang menampilkan daftar artikel dan artikel terbaru.
+
+![Image](https://github.com/user-attachments/assets/621a19e5-3c39-4e14-aad9-d1280622d3d8)
