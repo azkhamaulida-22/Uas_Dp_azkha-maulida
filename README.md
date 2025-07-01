@@ -93,3 +93,5 @@ E. Halaman About
 Halaman About adalah halaman untuk mengelola About dimulai dari Tampil About, Tambah About, Edit About dan Hapus About.
 
 ![Image](https://github.com/user-attachments/assets/d6bf005f-1e6b-412b-8eef-be46ce173d6b)
+
+![Image](https://github.com/user-attachments/assets/60f2fc70-40dd-425f-bbca-3007d9919963)
