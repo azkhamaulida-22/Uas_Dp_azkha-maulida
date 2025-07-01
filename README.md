@@ -84,3 +84,5 @@ D. Halaman Kelola Gallery
 Halaman Kelola Gallery adalah halaman untuk mengelola Gallery dimulai dari Tampil Gallery, Tambah Gallery, Edit Gallery dan Hapus Gallery.
 
 ![Image](https://github.com/user-attachments/assets/de2af0d6-9fb0-495f-aae5-73cc993548a6)
+
+![Image](https://github.com/user-attachments/assets/1b209b77-ff8d-4440-8ef7-64229ed97edc)
