@@ -40,3 +40,10 @@ A. Halaman Home / Artikel
 Halaman Home atau Halaman Artikel adalah halaman yang menampilkan daftar artikel dan artikel terbaru.
 
 ![Image](https://github.com/user-attachments/assets/621a19e5-3c39-4e14-aad9-d1280622d3d8)
+
+
+B. Halaman Gallery
+
+Halaman Gallery adalah halaman yang menampilkan foto-foto mahasiswa secara individu.
+
+![Image](https://github.com/user-attachments/assets/ca8e975b-867e-4e8e-a0df-76f56377c672)
