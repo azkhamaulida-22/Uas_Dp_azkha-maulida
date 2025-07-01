@@ -76,3 +76,5 @@ C. Halaman Kelola Artikel
 Halaman Kelola Artikel adalah halaman untuk mengelola Artikel dimulai dari Tampil Artikel, Tambah Artikel, Edit Artikel dan Hapus Artikel.
 
 ![Image](https://github.com/user-attachments/assets/ec6d5eae-b815-4180-be59-4dc2683742cb)
+
+![Image](https://github.com/user-attachments/assets/ec6d5eae-b815-4180-be59-4dc2683742cb)
