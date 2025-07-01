@@ -86,3 +86,10 @@ Halaman Kelola Gallery adalah halaman untuk mengelola Gallery dimulai dari Tampi
 ![Image](https://github.com/user-attachments/assets/de2af0d6-9fb0-495f-aae5-73cc993548a6)
 
 ![Image](https://github.com/user-attachments/assets/1b209b77-ff8d-4440-8ef7-64229ed97edc)
+
+
+E. Halaman About
+
+Halaman About adalah halaman untuk mengelola About dimulai dari Tampil About, Tambah About, Edit About dan Hapus About.
+
+![Image](https://github.com/user-attachments/assets/d6bf005f-1e6b-412b-8eef-be46ce173d6b)
