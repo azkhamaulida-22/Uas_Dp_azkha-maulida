@@ -63,3 +63,10 @@ A. Halaman Login
 Halaman Login adalah halaman yang digunakan untuk mengakses halaman admin, diperlukan username dan password.
 
 ![Image](https://github.com/user-attachments/assets/69b6eb1b-451b-4acf-b700-2ecb09b07545)
+
+
+B. Halaman Beranda
+
+Halaman Beranda merupakan halaman yang menampilkan statistik Jumlah Artikel dan Jumlah Gallery.
+
+![Image](https://github.com/user-attachments/assets/e52689b7-736c-4865-b0ac-08774ea8c36b)
